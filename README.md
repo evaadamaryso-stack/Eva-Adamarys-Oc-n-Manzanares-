@@ -1,4 +1,5 @@
 Repositorio en GitHub de Algebra Lineal
+
 import java.util.Scanner;
 
 public class factorizarMatriz {
